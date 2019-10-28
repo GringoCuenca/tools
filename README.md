@@ -8,4 +8,4 @@
 
 **SecurityNotFound:** *404 Page Not Found Webshell:* https://github.com/CosasDePuma/SecurityNotFound
 
-**Online Subdomain Detect Script** https://github.com/cihanmehmet/sub.sh
+**Online Subdomain Detect Script:** https://github.com/cihanmehmet/sub.sh
