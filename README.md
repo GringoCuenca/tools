@@ -1,6 +1,6 @@
 # Tools repositories
 
-**nmapAutomator:** https://github.com/21y4d/nmapAutomator
+**nmapAutomator:** *automate all of the process of recon/enumeration* https://github.com/21y4d/nmapAutomator
 
 **PRET:** *Printer Exploitation Toolkit* https://github.com/RUB-NDS/PRET
 
