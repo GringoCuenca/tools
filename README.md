@@ -1,5 +1,7 @@
 # Tools repositories
 
-**nmapAutomator** https://github.com/21y4d/nmapAutomator
+**nmapAutomator:** https://github.com/21y4d/nmapAutomator
 
-**PRET - Printer Exploitation Toolkit** https://github.com/RUB-NDS/PRET
+**PRET:** *Printer Exploitation Toolkit* https://github.com/RUB-NDS/PRET
+
+**CryptoVenom:** *The Cryptography Swiss Army knife* https://github.com/lockedbyte/cryptovenom
