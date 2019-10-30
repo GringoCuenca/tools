@@ -11,3 +11,5 @@
 **Online Subdomain Detect Script:** https://github.com/cihanmehmet/sub.sh
 
 **Mobile Security Framework (MobSF):** *All-in-one mobile application (Android/iOS/Windows) pentesting* https://github.com/MobSF/Mobile-Security-Framework-MobSF
+
+**Automated security reporting from markdown templates (HackerOne and Bugcrowd are currently the platforms supported):** https://github.com/fransr/bountyplz
