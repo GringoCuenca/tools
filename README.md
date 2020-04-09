@@ -20,3 +20,5 @@
 **https://twitter.com/PentesterLab**
 
 **https://twitter.com/PortSwigger**
+
+**Hacking Nights (Youtube channel):** https://www.youtube.com/channel/UCFjEf9LSSlnASTa0q_k0akA
