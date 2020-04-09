@@ -13,3 +13,5 @@
 **Mobile Security Framework (MobSF):** *All-in-one mobile application (Android/iOS/Windows) pentesting* https://github.com/MobSF/Mobile-Security-Framework-MobSF
 
 **Automated security reporting from markdown templates (HackerOne and Bugcrowd are currently the platforms supported):** https://github.com/fransr/bountyplz
+
+**Proton Framework:** *Windows post-exploitation framework* https://github.com/entynetproject/proton
