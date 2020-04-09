@@ -15,3 +15,7 @@
 **Automated security reporting from markdown templates (HackerOne and Bugcrowd are currently the platforms supported):** https://github.com/fransr/bountyplz
 
 **Proton Framework:** *Windows post-exploitation framework* https://github.com/entynetproject/proton
+
+# Learning 
+**https://twitter.com/PentesterLab**
+**https://twitter.com/PortSwigger**
