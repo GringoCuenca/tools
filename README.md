@@ -15,3 +15,5 @@
 **Automated security reporting from markdown templates (HackerOne and Bugcrowd are currently the platforms supported):** https://github.com/fransr/bountyplz
 
 **Proton Framework:** *Windows post-exploitation framework* https://github.com/entynetproject/proton
+
+**Mistica:** *An open source swiss army knife for arbitrary communication over application protocols* https://github.com/incidedigital/mistica
