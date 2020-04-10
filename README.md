@@ -15,12 +15,3 @@
 **Automated security reporting from markdown templates (HackerOne and Bugcrowd are currently the platforms supported):** https://github.com/fransr/bountyplz
 
 **Proton Framework:** *Windows post-exploitation framework* https://github.com/entynetproject/proton
-
-# Learning 
-**https://twitter.com/PentesterLab**
-
-**https://twitter.com/PortSwigger**
-
-**Hacking Nights (Youtube channel):** https://www.youtube.com/channel/UCFjEf9LSSlnASTa0q_k0akA
-
-**Bug Bounty Hunter Methodology:** https://youtu.be/Qw1nNPiH_Go
