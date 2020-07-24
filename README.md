@@ -17,3 +17,9 @@
 **Proton Framework:** *Windows post-exploitation framework* https://github.com/entynetproject/proton
 
 **Mistica:** *An open source swiss army knife for arbitrary communication over application protocols* https://github.com/incidedigital/mistica
+
+**Github-Secrets:** * Prevents you from committing passwords and other sensitive information to a git repository * https://github.com/awslabs/git-secrets#git-secrets
+
+**AzureStealth Scan:** * Discover the most privileged users in the scanned Azure environment - including the Azure Shadow Admins * https://github.com/cyberark/SkyArk#1-azurestealth-scan
+
+**AWStealth Scan:** * Discover the most privileged entities in the scanned AWS environment - including the Azure Shadow Admins * https://github.com/cyberark/SkyArk#2-awstealth-scan
