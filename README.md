@@ -23,3 +23,7 @@
 **AzureStealth Scan:** *Discover the most privileged users in the scanned Azure environment - including the Azure Shadow Admins* https://github.com/cyberark/SkyArk#1-azurestealth-scan
 
 **AWStealth Scan:** *Discover the most privileged entities in the scanned AWS environment - including the Azure Shadow Admins* https://github.com/cyberark/SkyArk#2-awstealth-scan
+
+**Invoke-Obfuscation** *PowerShell v2.0+ compatible PowerShell command and script obfuscator* https://github.com/danielbohannon/Invoke-Obfuscation
+
+**Invoke-NoShell** *Outputs a Microsoft Office Word .doc file with an embedded macro* https://github.com/G4lB1t/Invoke-NoShell
