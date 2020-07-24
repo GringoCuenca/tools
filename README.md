@@ -27,3 +27,5 @@
 **Invoke-Obfuscation** *PowerShell v2.0+ compatible PowerShell command and script obfuscator* https://github.com/danielbohannon/Invoke-Obfuscation
 
 **Invoke-NoShell** *Outputs a Microsoft Office Word .doc file with an embedded macro* https://github.com/G4lB1t/Invoke-NoShell
+
+**YARA** *Tool aimed at helping malware researchers to identify and classify malware samples* https://github.com/VirusTotal/yara
